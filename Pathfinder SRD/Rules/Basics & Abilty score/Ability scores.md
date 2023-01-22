@@ -284,7 +284,7 @@ Table: [[Ability scores#Intelligence (Int)|intelligence]] Examples and Descript
 
 ### Wisdom (Wis)
 
-Wisdom describes a character’s willpower, common sense, awareness, and intuition. Wisdom is the most important ability for [[Cleric|clerics]] and [[Druid|druids]], and it is also important for [[Monk|monks]] and [[Ranger|]]. If you want your character to have acute senses, put a high score in Wisdom. Every creature has a Wisdom score. A character with a Wisdom score of 0 is incapable of rational thought and is [unconscious](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Unconscious).
+Wisdom describes a character’s willpower, common sense, awareness, and intuition. Wisdom is the most important ability for [[Cleric|clerics]] and [[Druid|druids]], and it is also important for [[Monk|monks]] and [[Ranger|rangers]]. If you want your character to have acute senses, put a high score in Wisdom. Every creature has a Wisdom score. A character with a Wisdom score of 0 is incapable of rational thought and is [unconscious](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Unconscious).
 
 You apply your character’s Wisdom modifier to:
 
