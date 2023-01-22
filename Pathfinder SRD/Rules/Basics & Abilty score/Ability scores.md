@@ -261,7 +261,25 @@ A [[Wizard]] gains bonus spells based on his [[Ability scores#Intelligence (Int
 The following table gathered from various d20 sources by d20pfsrd.com editors. The Scores and Modifiers are “official” **but examples and descriptions are determined by d20pfsrd.com editors**. Consult your GM with any questions. Note also that the description texts are not intended to be “mechanical”- that is, they are merely for descriptive purposes.
 
 Table: [[Ability scores#Intelligence (Int)|intelligence]] Examples and Descriptions
-
+| Score | Modifier | Examples                                     | Description                                                                                                                     |
+|-------|----------|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| —     | —        | Zombie, golem, ochre jelly                   |                                                                                                                                 |
+| 0     | –        | –                                            | Comatose                                                                                                                        |
+| 1     | –5       | Carrion crawler, purple worm, camel          | Lives by the most basic instincts, not capable of logic or reason                                                               |
+| 2-3   | –4       | Tiger, hydra, dog, horse                     | Animal-level intelligence, acts mostly on instinct but can be trained                                                           |
+| 4–5   | –3       | Otyugh, griffon, displacer beast             | Can speak but is apt to react instinctively and impulsively, sometimes resorts to charades to express thoughts                  |
+| 6–7   | –2       | Troll, hell hound, ogre, yrthak              | Dull-witted or slow, often misuses and mispronounces words                                                                      |
+| 8–9   | –1       | Troglodyte, centaur, gnoll                   | Has trouble following trains of thought, forgets most unimportant things                                                        |
+| 10–11 | +0       | Human, bugbear, wight, night hag             | Knows what they need to know to get by                                                                                          |
+| 12–13 | +1       | Dragon turtle, cloud giant, lamia            | Picks up new ideas quickly and learns easily, knows a bit more than is necessary, fairly logical                                |
+| 14–15 | +2       | Invisible stalker, wraith, will-o’-wisp      | Can solve most problems without even trying very hard, able to do math or solve logic puzzles mentally with reasonable accuracy |
+| 16–17 | +3       | succubus, trumpet archon                     | Noticeably above the norm, fairly intelligent, able to understand new tasks quickly                                             |
+| 18–19 | +4       | Nightwing                                    | Genius-level intelligence, may invent new processes or uses for knowledge                                                       |
+| 20–21 | +5       | Kraken, titan, nightcrawler                  | Highly knowledgeable, probably the smartest person many people know                                                             |
+| 22-23 | +6       | Great wyrm red dragon, planetar              | Able to make amazing leaps of logic                                                                                             |
+| 24-25 | +7       | Mythic ice devil, the demon lord Kostchtchie | World-famous level intelligence, sought out for advice constantly                                                               |
+| 32–33 | +11      | Great wyrm gold dragon                       | Unfathomable intellect                                                                                                          |
+```
 
 
 ### Wisdom (Wis)
