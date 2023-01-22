@@ -262,7 +262,7 @@ The following table gathered from various d20 sources by d20pfsrd.com editors. T
 
 Table: [[Ability scores#Intelligence (Int)|intelligence]] Examples and Descriptions
 | Score | Modifier | Examples                                     | Description                                                                                                                     |
-|-------|----------|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| ----- | -------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | —     | —        | Zombie, golem, ochre jelly                   |                                                                                                                                 |
 | 0     | –        | –                                            | Comatose                                                                                                                        |
 | 1     | –5       | Carrion crawler, purple worm, camel          | Lives by the most basic instincts, not capable of logic or reason                                                               |
@@ -279,12 +279,12 @@ Table: [[Ability scores#Intelligence (Int)|intelligence]] Examples and Descript
 | 22-23 | +6       | Great wyrm red dragon, planetar              | Able to make amazing leaps of logic                                                                                             |
 | 24-25 | +7       | Mythic ice devil, the demon lord Kostchtchie | World-famous level intelligence, sought out for advice constantly                                                               |
 | 32–33 | +11      | Great wyrm gold dragon                       | Unfathomable intellect                                                                                                          |
-```
+
 
 
 ### Wisdom (Wis)
 
-Wisdom describes a character’s willpower, common sense, awareness, and intuition. Wisdom is the most important ability for [clerics](https://www.d20pfsrd.com/classes/core-classes/cleric) and [druids](https://www.d20pfsrd.com/classes/core-classes/druid), and it is also important for [monks](https://www.d20pfsrd.com/classes/core-classes/monk) and [rangers](https://www.d20pfsrd.com/classes/core-classes/ranger). If you want your character to have acute senses, put a high score in Wisdom. Every creature has a Wisdom score. A character with a Wisdom score of 0 is incapable of rational thought and is [unconscious](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Unconscious).
+Wisdom describes a character’s willpower, common sense, awareness, and intuition. Wisdom is the most important ability for [[Cleric]]s and [[Druid]]s, and it is also important for [monks](https://www.d20pfsrd.com/classes/core-classes/monk) and [rangers](https://www.d20pfsrd.com/classes/core-classes/ranger). If you want your character to have acute senses, put a high score in Wisdom. Every creature has a Wisdom score. A character with a Wisdom score of 0 is incapable of rational thought and is [unconscious](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Unconscious).
 
 You apply your character’s Wisdom modifier to:
 
