@@ -263,6 +263,7 @@ The following table gathered from various d20 sources by d20pfsrd.com editors. T
 Table: [[Ability scores#Intelligence (Int)|intelligence]] Examples and Descriptions
 
 
+
 ### Wisdom (Wis)
 
 Wisdom describes a character’s willpower, common sense, awareness, and intuition. Wisdom is the most important ability for [clerics](https://www.d20pfsrd.com/classes/core-classes/cleric) and [druids](https://www.d20pfsrd.com/classes/core-classes/druid), and it is also important for [monks](https://www.d20pfsrd.com/classes/core-classes/monk) and [rangers](https://www.d20pfsrd.com/classes/core-classes/ranger). If you want your character to have acute senses, put a high score in Wisdom. Every creature has a Wisdom score. A character with a Wisdom score of 0 is incapable of rational thought and is [unconscious](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Unconscious).
@@ -286,87 +287,6 @@ You apply your character’s Wisdom modifier to:
 
 The following table gathered from various d20 sources by d20pfsrd.com editors. The Scores and Modifiers are “official” but examples and descriptions are determined by d20pfsrd.com editors. Consult your GM with any questions. Note also that the description texts are not intended to be “mechanical”- that is, they are merely for descriptive purposes.
 
-
-
-Seems to have almost no common sense
-
-8–9
-
-–1
-
-Purple worm, [grimlock](https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/grimlock), [troll](https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/troll)
-
-Forgets or fails to consider options before taking action
-
-10–11
-
-+0
-
-[Human](https://www.d20pfsrd.com/races/core-races/human), [lizardfolk](https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/lizardfolk), [phantom](https://www.d20pfsrd.com/gamemastering/traps-hazards-and-special-terrains/hazards/3rd-party-hazards/phantom-cr-3) fungus
-
-Capable of planning and makes reasoned decisions most of the time
-
-12–13
-
-+1
-
-[Owlbear](https://www.d20pfsrd.com/bestiary/monster-listin/magical-beasts/owlbear), [hyena](https://www.d20pfsrd.com/bestiary/monster-listings/animals/hyena), [shadow](https://www.d20pfsrd.com/bestiary/monster-listings/undead/shadow), [remorhaz](https://www.d20pfsrd.com/bestiary/monster-listin/magical-beasts/remorhaz)
-
-Can sense when a person is upset
-
-14–15
-
-+2
-
-[Wraith](https://www.d20pfsrd.com/bestiary/monster-listings/undead/wraith), [owl](https://www.d20pfsrd.com/bestiary/monster-listings/animals/owl), giant praying mantis
-
-Can get hunches about a situation that doesn’t feel right
-
-16–17
-
-+3
-
-[Devourer](https://www.d20pfsrd.com/bestiary/monster-listings/undead/devourer), [lillend](https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/azata/lillend), androsphinx
-
-Reads people and situations fairly well
-
-18–19
-
-+4
-
-[Couatl](https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/couatl), [erinyes](https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/erinyes) [devil](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Devil), [guardian naga](https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/naga/naga-guardian)
-
-Often looked to as a source of wisdom or as a counselor
-
-20–21
-
-+5
-
-[Unicorn](https://www.d20pfsrd.com/bestiary/monster-listin/magical-beasts/unicorn), [storm giant](https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-storm)
-
-Reads people and situations very well, almost without effort
-
-22-23
-
-+6
-
-[Xacarba](https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/xacarba), [nalfeshnee](https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/nalfeshnee) [demon](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Demon), royal time [elemental](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Elemental)
-
-Can tell minute differences among many situations
-
-24-25
-
-+7
-
-[Kirin](https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/kirin) emperor, Amon (Duke of [Hell](https://www.d20pfsrd.com/gamemastering/environment/the-planes#TOC-Hell-Lawful-Evil-)), [tarn linnorm](https://www.d20pfsrd.com/bestiary/monster-listings/dragons/linnorm/tarn)
-
-Nearly prescient, able to see potential results far beyond that which pure logic would reveal
-
-32–33
-
-+11
-
-Great wyrm [gold dragon](https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-gold)
 
  
 
