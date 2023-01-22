@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "1f1b2f404f302360",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e95ad9c34dd7d11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3a45f0e3e29d879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pathfinder SRD/Rules/Basics & Abilty score/Ability scores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a5bb1e0b4cfc41d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c0ef10545241914",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aacf3ec223a0ead7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71fef23bd40dd113",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da4c9f3cb22ca51e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "527df368562a09d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "54b70afc8d2fa943",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd498a1fcb70041a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pathfinder SRD/Rules/Basics & Abilty score/Ability scores.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba08b0c922d0a17f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pathfinder SRD/Rules/Basics & Abilty score/Ability scores.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dee6dd8b8ca6e5d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f034ed6489b76ca7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pathfinder SRD/Rules/Basics & Abilty score/Ability scores.md"
+              }
+            }
+          },
+          {
+            "id": "2f3605b3bc02a381",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "867169e1386f22d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "855a83e83d15deea",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "dbfolder:Create a new database table": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "map-of-content:Update Map of Content": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "b3a45f0e3e29d879",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-01-22 23.27.38.excalidraw.md",
+    "Pathfinder SRD/Rules/Basics & Abilty score/Ability scores.md",
+    "Pathfinder SRD/Rules/Races/Dwarf.md",
+    "Pathfinder SRD/Rules/Races/Human.md",
+    "Pathfinder SRD/Rules/Races/Half-Elf.md",
+    "Pathfinder SRD/Rules/Races/Elf.md",
+    "Pathfinder SRD/Rules/Races/Races.md",
+    "().md",
+    "Races.md",
+    "Pathfinder.md"
+  ]
+}
