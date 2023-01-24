@@ -291,7 +291,7 @@ You apply your character’s Wisdom modifier to:
 -   [Will saving throws](https://www.d20pfsrd.com/gamemastering/combat#TOC-Will) (for negating the effects of [charm person](https://www.d20pfsrd.com/magic/all-spells/c/charm-person) and other spells).
 -   [Heal](https://www.d20pfsrd.com/skills/heal), [Perception](https://www.d20pfsrd.com/skills/perception), [Profession](https://www.d20pfsrd.com/skills/profession), [Sense Motive](https://www.d20pfsrd.com/skills/sense-motive), and [Survival](https://www.d20pfsrd.com/skills/survival) checks.
 
-[Clerics](https://www.d20pfsrd.com/classes/core-classes/cleric), [druids](https://www.d20pfsrd.com/classes/core-classes/druid), and [rangers](https://www.d20pfsrd.com/classes/core-classes/ranger) get bonus spells based on their Wisdom scores. The minimum Wisdom score needed to cast a [cleric](https://www.d20pfsrd.com/classes/core-classes/cleric), [druid](https://www.d20pfsrd.com/classes/core-classes/druid), or [ranger](https://www.d20pfsrd.com/classes/core-classes/ranger) spell is 10 + the spell’s level.
+[Clerics](https://www.d20pfsrd.com/classes/core-classes/cleric), [druids](https://www.d20pfsrd.com/classes/core-classes/druid), and [rangers](https://www.d20pfsrd.com/classes/core-classes/ranger) get bonus spells based on their Wisdom scores. The minimum Wisdom score needed to cast a [[cleric]], [[druid]], or [[ranger]](https://www.d20pfsrd.com/classes/core-classes/ranger) spell is 10 + the spell’s level.
 
 **Temporary Bonuses**: Temporary increases to your Wisdom score give you a bonus on Wisdom-based skill checks and [Will](https://www.d20pfsrd.com/gamemastering/combat#TOC-Will) saving throws. This bonus also applies to any spell DCs based on Wisdom.
 
