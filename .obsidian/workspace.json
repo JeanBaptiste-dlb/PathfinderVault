@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5aef90abc1b7288c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scenario/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathfinder SRD/Rules/Basics & Abilty score/Ability scores.md",
+                "file": "Scenario/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathfinder SRD/Rules/Basics & Abilty score/Ability scores.md",
+                "file": "Scenario/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pathfinder SRD/Rules/Basics & Abilty score/Ability scores.md"
+                "file": "Scenario/Untitled.md"
               }
             }
           },
@@ -173,10 +186,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b3a45f0e3e29d879",
+  "active": "5aef90abc1b7288c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-01-22 23.27.38.excalidraw.md",
     "Pathfinder SRD/Rules/Basics & Abilty score/Ability scores.md",
+    "Excalidraw/Drawing 2023-01-22 23.27.38.excalidraw.md",
     "Pathfinder SRD/Rules/Races/Dwarf.md",
     "Pathfinder SRD/Rules/Races/Human.md",
     "Pathfinder SRD/Rules/Races/Half-Elf.md",
