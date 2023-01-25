@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathfinder SRD/Rules/Basics & Abilty score/Ability scores.md",
+                "file": "Scenario/Le monde.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,16 +35,13 @@
             "id": "8bc3e4a3b6fc9d80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Scenario/Le monde.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-01-25 22.56.28.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,12 +195,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8bc3e4a3b6fc9d80",
+  "active": "b3a45f0e3e29d879",
   "lastOpenFiles": [
+    "Pathfinder SRD/Rules/Basics & Abilty score/Ability scores.md",
+    "Scenario/Chapitre I -.md",
     "Excalidraw/Drawing 2023-01-25 22.56.28.excalidraw.md",
     "Scenario/Le monde.md",
-    "Scenario/Chapitre I -.md",
-    "Pathfinder SRD/Rules/Basics & Abilty score/Ability scores.md",
     "Excalidraw/Drawing 2023-01-22 23.27.38.excalidraw.md",
     "Pathfinder SRD/Rules/Races/Dwarf.md",
     "Pathfinder SRD/Rules/Races/Human.md",
