@@ -1,1 +1,1 @@
-Le monde est appelé Ethia, il s'agit 
+Le monde est appelé Ethia, il s'agit d'une planète d'un diamètre 20% 
