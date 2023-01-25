@@ -35,11 +35,9 @@
             "id": "8bc3e4a3b6fc9d80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Scenario/Le monde.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-01-25 22.56.28.excalidraw.md"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scenario/Le monde.md",
+                "file": "Excalidraw/Drawing 2023-01-25 22.56.28.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scenario/Le monde.md",
+                "file": "Excalidraw/Drawing 2023-01-25 22.56.28.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scenario/Le monde.md"
+                "file": "Excalidraw/Drawing 2023-01-25 22.56.28.excalidraw.md"
               }
             }
           },
@@ -200,6 +198,7 @@
   },
   "active": "8bc3e4a3b6fc9d80",
   "lastOpenFiles": [
+    "Scenario/Le monde.md",
     "Scenario/Chapitre I -.md",
     "Pathfinder SRD/Rules/Basics & Abilty score/Ability scores.md",
     "Excalidraw/Drawing 2023-01-22 23.27.38.excalidraw.md",
@@ -208,7 +207,6 @@
     "Pathfinder SRD/Rules/Races/Half-Elf.md",
     "Pathfinder SRD/Rules/Races/Elf.md",
     "Pathfinder SRD/Rules/Races/Races.md",
-    "().md",
-    "Races.md"
+    "().md"
   ]
 }
