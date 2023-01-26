@@ -204,8 +204,8 @@
       "markdown-importer:Open format converter": false,
       "dbfolder:Create a new database table": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "map-of-content:Update Map of Content": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "map-of-content:Update Map of Content": false
     }
   },
   "active": "779609909b175bab",
