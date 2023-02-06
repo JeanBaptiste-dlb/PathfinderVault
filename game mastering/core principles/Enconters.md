@@ -5,4 +5,6 @@
 + They should have the potential to impact the characters forever
 + They should be memorable and related to the setting.
 + You can derive an idea like you pull a thread until it becomes interesting e.g. 
-	+ A 
+	+ A robot in a cave
+	+ A robot in a cave that digs for eternity
+	+ A robot in a cave that digs for eternity on behalf 
