@@ -44,6 +44,30 @@
             }
           },
           {
+            "id": "1f3c20461afaab08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "game mastering/The treasures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d067fb831eb7872d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "game mastering/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5aef90abc1b7288c",
             "type": "leaf",
             "state": {
@@ -66,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game mastering/The spine.md",
+                "file": "game mastering/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game mastering/The spine.md",
+                "file": "game mastering/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "game mastering/The spine.md"
+                "file": "game mastering/Untitled.md"
               }
             }
           },
@@ -220,8 +244,10 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "6197fa27464e02e7",
+  "active": "d067fb831eb7872d",
   "lastOpenFiles": [
+    "game mastering/The treasures.md",
+    "game mastering/The spine.md",
     "Scenario/La région.md",
     "Scenario/Le monde.md",
     "Scenario/Chapitre I -.md",
@@ -229,8 +255,6 @@
     "Pathfinder SRD/Rules/Basics & Abilty score/Ability scores.md",
     "Excalidraw/Drawing 2023-01-22 23.27.38.excalidraw.md",
     "Pathfinder SRD/Rules/Races/Dwarf.md",
-    "Pathfinder SRD/Rules/Races/Human.md",
-    "Pathfinder SRD/Rules/Races/Half-Elf.md",
-    "Pathfinder SRD/Rules/Races/Elf.md"
+    "Pathfinder SRD/Rules/Races/Human.md"
   ]
 }
