@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "87e669130e66653e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "game mastering/core principles/Interesting choices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5aef90abc1b7288c",
             "type": "leaf",
             "state": {
@@ -102,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game mastering/core principles/Enconters.md",
+                "file": "game mastering/core principles/Interesting choices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game mastering/core principles/Enconters.md",
+                "file": "game mastering/core principles/Interesting choices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "game mastering/core principles/Enconters.md"
+                "file": "game mastering/core principles/Interesting choices.md"
               }
             }
           },
@@ -256,8 +268,9 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "d734523062c17e0b",
+  "active": "87e669130e66653e",
   "lastOpenFiles": [
+    "game mastering/core principles/Enconters.md",
     "game mastering/core principles/The treasures.md",
     "game mastering/core principles/The spine.md",
     "game mastering/core principles/Build the world as it is played.md",
@@ -266,7 +279,6 @@
     "Scenario/Chapitre I -.md",
     "Excalidraw/Drawing 2023-01-25 22.56.28.excalidraw.md",
     "Pathfinder SRD/Rules/Basics & Abilty score/Ability scores.md",
-    "Excalidraw/Drawing 2023-01-22 23.27.38.excalidraw.md",
-    "Pathfinder SRD/Rules/Races/Dwarf.md"
+    "Excalidraw/Drawing 2023-01-22 23.27.38.excalidraw.md"
   ]
 }
