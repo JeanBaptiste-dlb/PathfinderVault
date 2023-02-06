@@ -7,4 +7,4 @@
 + You can derive an idea like you pull a thread until it becomes interesting e.g. 
 	+ A robot in a cave
 	+ A robot in a cave that digs for eternity
-	+ A robot in a cave that digs for eternity on behalf 
+	+ A robot in a cave that digs for eternity on behalf of a mastermind trying to make a city collapse on itself
