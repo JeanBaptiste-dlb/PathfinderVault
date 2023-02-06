@@ -1,3 +1,4 @@
 Treasures must follow three principles:
-+ More valuable than u
++ More valuable than useful
 + Difficult to obtain
++ Thought-provoking (interesting)
