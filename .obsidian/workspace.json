@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game mastering/The spine.md",
+                "file": "game mastering/core principles/The spine.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game mastering/The treasures.md",
+                "file": "game mastering/core principles/The treasures.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game mastering/Untitled.md",
+                "file": "game mastering/core principles/Build the world as it is played.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game mastering/Untitled.md",
+                "file": "game mastering/core principles/Build the world as it is played.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game mastering/Untitled.md",
+                "file": "game mastering/core principles/Build the world as it is played.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "game mastering/Untitled.md"
+                "file": "game mastering/core principles/Build the world as it is played.md"
               }
             }
           },
@@ -244,10 +244,10 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "d067fb831eb7872d",
+  "active": "aacf3ec223a0ead7",
   "lastOpenFiles": [
-    "game mastering/The treasures.md",
-    "game mastering/The spine.md",
+    "game mastering/core principles/The treasures.md",
+    "game mastering/core principles/The spine.md",
     "Scenario/La région.md",
     "Scenario/Le monde.md",
     "Scenario/Chapitre I -.md",
