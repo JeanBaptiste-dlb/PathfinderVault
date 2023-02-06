@@ -9,3 +9,4 @@
 	+ A robot in a cave that digs for eternity
 	+ A robot in a cave that digs for eternity on behalf of a mastermind trying to make a city collapse on itself
 Don't leave your best ideas for later, use them right away
+The more dangerous a threat, the more obvious it should be
