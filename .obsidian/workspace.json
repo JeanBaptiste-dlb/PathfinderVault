@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game mastering/core principles/Build the world as it is played.md",
+                "file": "game mastering/core principles/The treasures.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game mastering/core principles/Build the world as it is played.md",
+                "file": "game mastering/core principles/The treasures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game mastering/core principles/Build the world as it is played.md",
+                "file": "game mastering/core principles/The treasures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "game mastering/core principles/Build the world as it is played.md"
+                "file": "game mastering/core principles/The treasures.md"
               }
             }
           },
@@ -244,17 +244,17 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "aacf3ec223a0ead7",
+  "active": "d067fb831eb7872d",
   "lastOpenFiles": [
-    "game mastering/core principles/The treasures.md",
     "game mastering/core principles/The spine.md",
+    "game mastering/core principles/Build the world as it is played.md",
+    "game mastering/core principles/The treasures.md",
     "Scenario/La région.md",
     "Scenario/Le monde.md",
     "Scenario/Chapitre I -.md",
     "Excalidraw/Drawing 2023-01-25 22.56.28.excalidraw.md",
     "Pathfinder SRD/Rules/Basics & Abilty score/Ability scores.md",
     "Excalidraw/Drawing 2023-01-22 23.27.38.excalidraw.md",
-    "Pathfinder SRD/Rules/Races/Dwarf.md",
-    "Pathfinder SRD/Rules/Races/Human.md"
+    "Pathfinder SRD/Rules/Races/Dwarf.md"
   ]
 }
