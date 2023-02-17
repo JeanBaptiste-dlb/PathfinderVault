@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game mastering/core principles/Combat.md",
+                "file": "game mastering/core principles/Enconters.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game mastering/core principles/Combat.md",
+                "file": "game mastering/core principles/Enconters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game mastering/core principles/Combat.md",
+                "file": "game mastering/core principles/Enconters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "game mastering/core principles/Combat.md"
+                "file": "game mastering/core principles/Enconters.md"
               }
             }
           },
@@ -282,6 +282,7 @@
   },
   "active": "db583947e6feb450",
   "lastOpenFiles": [
+    "game mastering/core principles/Combat.md",
     "game mastering/core principles/Interesting choices.md",
     "game mastering/core principles/Enconters.md",
     "game mastering/core principles/The treasures.md",
@@ -290,7 +291,6 @@
     "Scenario/La région.md",
     "Scenario/Le monde.md",
     "Scenario/Chapitre I -.md",
-    "Excalidraw/Drawing 2023-01-25 22.56.28.excalidraw.md",
-    "Pathfinder SRD/Rules/Basics & Abilty score/Ability scores.md"
+    "Excalidraw/Drawing 2023-01-25 22.56.28.excalidraw.md"
   ]
 }
