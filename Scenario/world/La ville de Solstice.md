@@ -1,1 +1,0 @@
-Immense cité divisé en trois étage avec différentes guildes. 

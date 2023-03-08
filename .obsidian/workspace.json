@@ -109,7 +109,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scenario/world/La ville de Solstice.md",
+                "file": "Scenario/world/Solstice/La ville de Solstice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f19f3729e27b9ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scenario/world/Solstice/La ville de Solstice.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -204,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scenario/world/La ville de Solstice.md",
+                "file": "Scenario/world/Solstice/La ville de Solstice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scenario/world/La ville de Solstice.md",
+                "file": "Scenario/world/Solstice/La ville de Solstice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scenario/world/La ville de Solstice.md"
+                "file": "Scenario/world/Solstice/La ville de Solstice.md"
               }
             }
           },
@@ -292,10 +304,13 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "0a3ecb1be8a6d1b4",
+  "active": "1f19f3729e27b9ac",
   "lastOpenFiles": [
+    "Scenario/world/Solstice/Guildes.md",
+    "Scenario/world/Untitled.md",
+    "Scenario/world/Solstice",
+    "Scenario/world/Solstice/La ville de Solstice.md",
     "game mastering/core principles/Enconters.md",
-    "Scenario/world/La ville de Solstice.md",
     "Scenario/world",
     "game mastering/core principles/Combat.md",
     "game mastering/core principles/Interesting choices.md",
