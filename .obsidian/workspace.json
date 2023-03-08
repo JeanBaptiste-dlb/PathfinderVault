@@ -97,30 +97,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game mastering/core principles/Enconters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a3ecb1be8a6d1b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scenario/world/Solstice/La ville de Solstice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f19f3729e27b9ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Scenario/world/Solstice/Guildes.md",
                 "mode": "source",
                 "source": false
@@ -150,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -304,13 +280,13 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "1f19f3729e27b9ac",
+  "active": "db583947e6feb450",
   "lastOpenFiles": [
     "Scenario/world/Solstice/La ville de Solstice.md",
     "Scenario/world/Solstice/Guildes.md",
+    "game mastering/core principles/Enconters.md",
     "Scenario/world/Untitled.md",
     "Scenario/world/Solstice",
-    "game mastering/core principles/Enconters.md",
     "Scenario/world",
     "game mastering/core principles/Combat.md",
     "game mastering/core principles/Interesting choices.md",
