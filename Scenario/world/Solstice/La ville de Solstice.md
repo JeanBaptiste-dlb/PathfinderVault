@@ -4,4 +4,4 @@ Immense cité divisé en trois étage acceuillants difféents niveau de populati
 
 
 ## Guildes
-Forces politiques de la cité, les guildes 
+Forces politiques de la cité, les guildes controlent le commerce, les taxes, les cultes, les meurs. Solstice est immense mais son architecture est propice à l'espi
