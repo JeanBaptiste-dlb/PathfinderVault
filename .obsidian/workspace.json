@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scenario/world/Solstice/La ville de Solstice.md",
+                "file": "Scenario/world/Solstice/Guildes.md",
                 "mode": "source",
                 "source": false
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scenario/world/Solstice/La ville de Solstice.md",
+                "file": "Scenario/world/Solstice/Guildes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scenario/world/Solstice/La ville de Solstice.md",
+                "file": "Scenario/world/Solstice/Guildes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scenario/world/Solstice/La ville de Solstice.md"
+                "file": "Scenario/world/Solstice/Guildes.md"
               }
             }
           },
@@ -306,10 +306,10 @@
   },
   "active": "1f19f3729e27b9ac",
   "lastOpenFiles": [
+    "Scenario/world/Solstice/La ville de Solstice.md",
     "Scenario/world/Solstice/Guildes.md",
     "Scenario/world/Untitled.md",
     "Scenario/world/Solstice",
-    "Scenario/world/Solstice/La ville de Solstice.md",
     "game mastering/core principles/Enconters.md",
     "Scenario/world",
     "game mastering/core principles/Combat.md",
