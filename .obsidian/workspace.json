@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "0a3ecb1be8a6d1b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scenario/world/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5aef90abc1b7288c",
             "type": "leaf",
             "state": {
@@ -126,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game mastering/core principles/Enconters.md",
+                "file": "Scenario/world/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game mastering/core principles/Enconters.md",
+                "file": "Scenario/world/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "game mastering/core principles/Enconters.md"
+                "file": "Scenario/world/Untitled.md"
               }
             }
           },
@@ -280,11 +292,13 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "db583947e6feb450",
+  "active": "0a3ecb1be8a6d1b4",
   "lastOpenFiles": [
+    "game mastering/core principles/Enconters.md",
+    "Scenario/world/Untitled.md",
+    "Scenario/world",
     "game mastering/core principles/Combat.md",
     "game mastering/core principles/Interesting choices.md",
-    "game mastering/core principles/Enconters.md",
     "game mastering/core principles/The treasures.md",
     "game mastering/core principles/The spine.md",
     "game mastering/core principles/Build the world as it is played.md",
