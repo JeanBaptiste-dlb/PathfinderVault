@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scenario/world/Solstice/Guildes.md",
+                "file": "Scenario/le monde de Gimélion/Solstice/Guildes.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scenario/world/Solstice/Guildes.md",
+                "file": "Scenario/le monde de Gimélion/Solstice/Guildes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scenario/world/Solstice/Guildes.md",
+                "file": "Scenario/le monde de Gimélion/Solstice/Guildes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scenario/world/Solstice/Guildes.md"
+                "file": "Scenario/le monde de Gimélion/Solstice/Guildes.md"
               }
             }
           },
@@ -282,17 +282,17 @@
   },
   "active": "db583947e6feb450",
   "lastOpenFiles": [
-    "Scenario/world/Solstice/La ville de Solstice.md",
+    "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md",
+    "Scenario/le monde de Gimélion/Solstice/Guildes.md",
     "Pasted image 20230309000528.png",
-    "Scenario/world/Solstice/Guildes.md",
     "clockmaker 1.jpeg",
     "clockmaker.jpeg",
     "solstice3.webp",
     "Solstice2.jpeg",
     "game mastering/core principles/Enconters.md",
     "Scenario/world/Untitled.md",
-    "Scenario/world/Solstice",
-    "Scenario/world",
+    "Scenario/le monde de Gimélion/Solstice",
+    "Scenario/le monde de Gimélion",
     "game mastering/core principles/Combat.md",
     "game mastering/core principles/Interesting choices.md",
     "game mastering/core principles/The treasures.md",
