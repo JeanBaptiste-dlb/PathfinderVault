@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scenario/le monde de Gimélion/Solstice/Guildes.md",
+                "file": "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scenario/le monde de Gimélion/Solstice/Guildes.md",
+                "file": "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scenario/le monde de Gimélion/Solstice/Guildes.md",
+                "file": "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scenario/le monde de Gimélion/Solstice/Guildes.md"
+                "file": "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md"
               }
             }
           },
@@ -282,8 +282,8 @@
   },
   "active": "db583947e6feb450",
   "lastOpenFiles": [
-    "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md",
     "Scenario/le monde de Gimélion/Solstice/Guildes.md",
+    "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md",
     "Pasted image 20230309000528.png",
     "clockmaker 1.jpeg",
     "clockmaker.jpeg",
