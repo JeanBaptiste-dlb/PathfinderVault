@@ -5,7 +5,6 @@ Immense cité divisée en trois étages accueillants différents niveaux de popu
 ## Religion
 La grande divinité de Solstice sont Abadar et Torag. 
 
-
 ## Guildes
 Forces politiques de la cité, les guildes contrôlent le commerce, les taxes, les cultes, la culture, l'art, les jeux et la boisson, ... Solstice est immense, mais certaines personnes ont un contrôle et une connaissance presque absolu de ce qu'il s'y passe.
 
