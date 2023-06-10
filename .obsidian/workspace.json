@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scenario/Chapitre I - Le voyage.md",
+                "file": "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md",
                 "mode": "source",
                 "source": false
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scenario/Chapitre I - Le voyage.md",
+                "file": "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scenario/Chapitre I - Le voyage.md",
+                "file": "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scenario/Chapitre I - Le voyage.md"
+                "file": "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md"
               }
             }
           },
@@ -291,8 +291,13 @@
   "active": "db583947e6feb450",
   "lastOpenFiles": [
     "Scenario/le monde de Gimélion/Solstice/Guildes.md",
-    "Untitled.canvas",
+    "assets/solstice3.webp",
     "Scenario/Le monde.md",
+    "Solstice2.jpeg",
+    "Scenario/La région.md",
+    "Scenario/le monde de Gimélion/Solos.md",
+    "Scenario/Chapitre I - Le voyage.md",
+    "Untitled.canvas",
     "assets/RPG_40_Drawing_rpg_book_style_of_An_industrious_dwarf_horloger_0.jpg",
     "assets/RPG_40_Drawing_rpg_book_style_of_An_industrious_dwarf_horloger_1.jpg",
     "assets",
@@ -300,8 +305,6 @@
     "Pasted image 20230309000528.png",
     "clockmaker 1.jpeg",
     "clockmaker.jpeg",
-    "solstice3.webp",
-    "Solstice2.jpeg",
     "game mastering/core principles/Enconters.md",
     "Scenario/world/Untitled.md",
     "Scenario/le monde de Gimélion/Solstice",
@@ -311,8 +314,6 @@
     "game mastering/core principles/The treasures.md",
     "game mastering/core principles/The spine.md",
     "game mastering/core principles/Build the world as it is played.md",
-    "Scenario/La région.md",
-    "Scenario/Chapitre I - Le voyage.md",
     "Excalidraw/Drawing 2023-01-25 22.56.28.excalidraw.md"
   ]
 }
