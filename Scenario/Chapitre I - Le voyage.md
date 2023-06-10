@@ -1,1 +1,1 @@
-Les joueurs commencent dans le village de [[solnos]] à 3 jours de marche de solstice. 
+Les joueurs commencent dans le village de [[Solnos]] à 3 jours de marche de solstice. 

@@ -85,31 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game mastering/core principles/Interesting choices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db583947e6feb450",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5aef90abc1b7288c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scenario/Chapitre I - Le voyage.md",
+                "file": "Scenario/le monde de Gimélion/Solnos.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -200,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md",
+                "file": "Scenario/le monde de Gimélion/Solnos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md",
+                "file": "Scenario/le monde de Gimélion/Solnos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md"
+                "file": "Scenario/le monde de Gimélion/Solnos.md"
               }
             }
           },
@@ -288,20 +264,25 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "db583947e6feb450",
+  "active": "aacf3ec223a0ead7",
   "lastOpenFiles": [
+    "Scenario/Chapitre I - Le voyage.md",
+    "Scenario/le monde de Gimélion/Solnos.md",
+    "Scenario/le monde de Gimélion/Solos.md",
+    "game mastering/core principles/Interesting choices.md",
+    "assets/Pasted image 20230309000528.png",
+    "assets/Pasted image 20230206200855.png",
+    "Pasted image 20230206200855.png",
+    "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md",
     "Scenario/le monde de Gimélion/Solstice/Guildes.md",
     "assets/solstice3.webp",
     "Scenario/Le monde.md",
     "Solstice2.jpeg",
     "Scenario/La région.md",
-    "Scenario/le monde de Gimélion/Solos.md",
-    "Scenario/Chapitre I - Le voyage.md",
     "Untitled.canvas",
     "assets/RPG_40_Drawing_rpg_book_style_of_An_industrious_dwarf_horloger_0.jpg",
     "assets/RPG_40_Drawing_rpg_book_style_of_An_industrious_dwarf_horloger_1.jpg",
     "assets",
-    "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md",
     "Pasted image 20230309000528.png",
     "clockmaker 1.jpeg",
     "clockmaker.jpeg",
@@ -310,7 +291,6 @@
     "Scenario/le monde de Gimélion/Solstice",
     "Scenario/le monde de Gimélion",
     "game mastering/core principles/Combat.md",
-    "game mastering/core principles/Interesting choices.md",
     "game mastering/core principles/The treasures.md",
     "game mastering/core principles/The spine.md",
     "game mastering/core principles/Build the world as it is played.md",

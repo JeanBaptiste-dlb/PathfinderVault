@@ -1,0 +1,1 @@
+Le village de Solnos situé dans la région 
