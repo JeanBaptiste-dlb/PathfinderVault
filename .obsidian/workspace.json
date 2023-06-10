@@ -35,11 +35,9 @@
             "id": "6197fa27464e02e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "game mastering/core principles/The spine.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/Pasted image 20230309000528.png"
               }
             }
           },
@@ -78,29 +76,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "87e669130e66653e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/Pasted image 20230206200855.png"
-              }
-            }
-          },
-          {
-            "id": "8bc3e4a3b6fc9d80",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-01-25 22.56.28.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Pasted image 20230206200855.png",
+                "file": "assets/Pasted image 20230309000528.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Pasted image 20230206200855.png",
+                "file": "assets/Pasted image 20230309000528.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Pasted image 20230206200855.png"
+                "file": "assets/Pasted image 20230309000528.png"
               }
             }
           },
@@ -264,26 +242,27 @@
   },
   "active": "aacf3ec223a0ead7",
   "lastOpenFiles": [
-    "assets/Pasted image 20230309000528.png",
-    "assets/RPG_40_Drawing_rpg_book_style_of_An_industrious_dwarf_horloger_0.jpg",
+    "assets/Default_A_closeup_of_a_Vietnamese_old_mans_face_illuminated_by_0_c21b0ddb-d91e-43ee-b6b2-9e61e631e6e4_1.jpg",
     "assets/librarians.jpg",
-    "assets/solnos_mayor.jpg",
+    "assets/RPG_40_Drawing_rpg_book_style_of_the_old_mayor_of_a_small_vill_1.jpg",
+    "assets/RPG_40_portrait_of_the_old_major_of_a_small_village_rpg_book_D_1.jpg",
+    "assets/Default_tattooed_Teddi_Mansueto_full_body_length_standing_of_a_0_19721703-6651-49e9-b76e-34ceaa34c09c_1.jpg",
+    "assets/Default_witch_girl_waifu_portrait_evil_sly_witch_hat_spell_boo_0_44154974-c2f4-440a-b53f-da2b6bf89ce3_1.jpg",
+    "assets/Default_Renaissance_white_marble_statue_city_park_female_red_b_0_f071ab49-cc0f-4fff-a73b-ed92464123ec_1.jpg",
+    "assets/Default_Graffiti_Color_oil_paint_Aquarell_Vintage_Sunrise_wild_0_eae8180a-d104-4d78-9edd-15bae84eb923_1.jpg",
+    "assets/Default_State_of_Decay_beautiful_skeleton_whimsical_by_russ_mi_0_07ac0934-f858-4d40-a001-3bf46d8290f6_1.jpg",
+    "assets/Default_stone_statue12_HDR_ultra_highdetail_centered_bokeh_lig_1_d55bdb56-cfc7-4a25-aa3b-f10c2946565c_1.jpg",
+    "assets/Default_Acrylic_art_of_natural_color_a_young_brave_and_fierce_0_3fd3d6e0-3901-4327-889a-4dcbb0b52fc7_1.jpg",
     "Scenario/le monde de Gimélion/Solnos.md",
     "Scenario/Chapitre I - Le voyage.md",
     "Scenario/le monde de Gimélion/Solos.md",
     "game mastering/core principles/Interesting choices.md",
-    "assets/Pasted image 20230206200855.png",
-    "Pasted image 20230206200855.png",
     "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md",
     "Scenario/le monde de Gimélion/Solstice/Guildes.md",
-    "assets/solstice.webp",
     "Scenario/Le monde.md",
-    "Solstice2.jpeg",
     "Scenario/La région.md",
     "Untitled.canvas",
     "assets",
-    "Pasted image 20230309000528.png",
-    "clockmaker 1.jpeg",
     "game mastering/core principles/Enconters.md",
     "Scenario/world/Untitled.md",
     "Scenario/le monde de Gimélion/Solstice",
