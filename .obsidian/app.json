@@ -4,5 +4,6 @@
   "spellcheckDictionary": [
     "Gimélion",
     "platinion"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }
