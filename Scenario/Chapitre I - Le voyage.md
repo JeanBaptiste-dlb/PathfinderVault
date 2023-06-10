@@ -1,0 +1,1 @@
+Les joueurs commencent dans le village de 

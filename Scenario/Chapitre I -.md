@@ -1,2 +1,0 @@
-THemes: extinguished civilizations
-                intrigue

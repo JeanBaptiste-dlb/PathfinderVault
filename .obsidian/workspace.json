@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scenario/Chapitre I -.md",
+                "file": "Scenario/Chapitre I - Le voyage.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scenario/Chapitre I -.md",
+                "file": "Scenario/Chapitre I - Le voyage.md",
                 "mode": "source",
                 "source": false
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scenario/Chapitre I -.md",
+                "file": "Scenario/Chapitre I - Le voyage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scenario/Chapitre I -.md",
+                "file": "Scenario/Chapitre I - Le voyage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scenario/Chapitre I -.md"
+                "file": "Scenario/Chapitre I - Le voyage.md"
               }
             }
           },
@@ -312,7 +312,7 @@
     "game mastering/core principles/The spine.md",
     "game mastering/core principles/Build the world as it is played.md",
     "Scenario/La région.md",
-    "Scenario/Chapitre I -.md",
+    "Scenario/Chapitre I - Le voyage.md",
     "Excalidraw/Drawing 2023-01-25 22.56.28.excalidraw.md"
   ]
 }
