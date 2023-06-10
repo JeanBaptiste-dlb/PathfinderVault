@@ -104,16 +104,6 @@
             }
           },
           {
-            "id": "d76a344ab20533ec",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
-          },
-          {
             "id": "5aef90abc1b7288c",
             "type": "leaf",
             "state": {
@@ -136,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -298,7 +288,7 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "d76a344ab20533ec",
+  "active": "aacf3ec223a0ead7",
   "lastOpenFiles": [
     "Scenario/le monde de Gimélion/Solstice/Guildes.md",
     "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md",
