@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scenario/le monde de Gimélion/Solstice/Guildes.md",
+                "file": "Scenario/Chapitre I - Le voyage.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scenario/le monde de Gimélion/Solstice/Guildes.md",
+                "file": "Scenario/Chapitre I - Le voyage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scenario/le monde de Gimélion/Solstice/Guildes.md",
+                "file": "Scenario/Chapitre I - Le voyage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scenario/le monde de Gimélion/Solstice/Guildes.md"
+                "file": "Scenario/Chapitre I - Le voyage.md"
               }
             }
           },
@@ -244,10 +244,10 @@
   },
   "active": "6197fa27464e02e7",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-01-25 22.56.28.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-22 23.27.38.excalidraw.md",
     "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md",
     "Scenario/le monde de Gimélion/Solstice/Guildes.md",
+    "Excalidraw/Drawing 2023-01-25 22.56.28.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-22 23.27.38.excalidraw.md",
     "assets/Pasted image 20230309000528.png",
     "assets/Default_fine_art_masterclass_splash_spray_trickle_daubs_o_0_ddf2e37d-bc9c-4f8b-9667-1a59c888c393_1.jpg",
     "assets/Default_castle_natural_highlights_bright_colours_realistic_wid_0_b7fb3d1c-db79-40da-9f5b-975a475c8e0f_1.jpg",
