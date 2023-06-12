@@ -35,9 +35,11 @@
             "id": "6197fa27464e02e7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/Pasted image 20230309000528.png"
+                "file": "Scenario/le monde de Gimélion/Solstice/Guildes.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -152,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Pasted image 20230309000528.png",
+                "file": "Scenario/le monde de Gimélion/Solstice/Guildes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Pasted image 20230309000528.png",
+                "file": "Scenario/le monde de Gimélion/Solstice/Guildes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Pasted image 20230309000528.png"
+                "file": "Scenario/le monde de Gimélion/Solstice/Guildes.md"
               }
             }
           },
@@ -240,8 +242,13 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "aacf3ec223a0ead7",
+  "active": "6197fa27464e02e7",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-01-25 22.56.28.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-22 23.27.38.excalidraw.md",
+    "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md",
+    "Scenario/le monde de Gimélion/Solstice/Guildes.md",
+    "assets/Pasted image 20230309000528.png",
     "assets/Default_fine_art_masterclass_splash_spray_trickle_daubs_o_0_ddf2e37d-bc9c-4f8b-9667-1a59c888c393_1.jpg",
     "assets/Default_castle_natural_highlights_bright_colours_realistic_wid_0_b7fb3d1c-db79-40da-9f5b-975a475c8e0f_1.jpg",
     "assets/Default_werewolf_bits_of_color_Sketch_book_hand_drawn_dark_gri_3_c5664028-e13f-43cb-b5d2-e05257ccfd91_1.jpg",
@@ -251,14 +258,10 @@
     "assets/DreamShaper_v6_Film_Noir_style_full_body_majestic_ornate_matte_0.jpg",
     "assets/Default_Wonderful_Landscapes_Cartoon_style_water_ink_ink_water_0_08ccbbc4-68d2-40c1-a02a-1ca04658eb6d_0.png",
     "assets/Default_an_old_American_Indian_chief_semiprofile_wrinkled_face_bright_3_9a774f9d-b982-46c2-8743-22a3c4e03cfc_1.jpg",
-    "assets/Default_painted_portrait_of_rugged_zeus_full_body_god_of_thund_0_1f4fd732-518b-472a-9079-817f4edbcb41_1.jpg",
-    "assets/Default_bits_of_color_Sketch_book_hand_drawn_dark_gritty_realistic_sk_1_84ad56bd-73f4-4085-9e05-65203b4dfc86_1.jpg",
     "Scenario/le monde de Gimélion/Solnos.md",
     "Scenario/Chapitre I - Le voyage.md",
     "Scenario/le monde de Gimélion/Solos.md",
     "game mastering/core principles/Interesting choices.md",
-    "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md",
-    "Scenario/le monde de Gimélion/Solstice/Guildes.md",
     "Scenario/Le monde.md",
     "Scenario/La région.md",
     "Untitled.canvas",
@@ -270,7 +273,6 @@
     "game mastering/core principles/Combat.md",
     "game mastering/core principles/The treasures.md",
     "game mastering/core principles/The spine.md",
-    "game mastering/core principles/Build the world as it is played.md",
-    "Excalidraw/Drawing 2023-01-25 22.56.28.excalidraw.md"
+    "game mastering/core principles/Build the world as it is played.md"
   ]
 }
