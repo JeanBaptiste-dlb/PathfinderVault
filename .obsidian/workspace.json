@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scenario/Chapitre I - Le voyage.md",
+                "file": "Scenario/Le monde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scenario/Chapitre I - Le voyage.md",
+                "file": "Scenario/Le monde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scenario/Chapitre I - Le voyage.md"
+                "file": "Scenario/Le monde.md"
               }
             }
           },
@@ -242,8 +241,10 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "6197fa27464e02e7",
+  "active": "b3a45f0e3e29d879",
   "lastOpenFiles": [
+    "Scenario/La région.md",
+    "Scenario/Chapitre I - Le voyage.md",
     "Scenario/le monde de Gimélion/Solstice/La ville de Solstice.md",
     "Scenario/le monde de Gimélion/Solstice/Guildes.md",
     "Excalidraw/Drawing 2023-01-25 22.56.28.excalidraw.md",
@@ -259,11 +260,9 @@
     "assets/Default_Wonderful_Landscapes_Cartoon_style_water_ink_ink_water_0_08ccbbc4-68d2-40c1-a02a-1ca04658eb6d_0.png",
     "assets/Default_an_old_American_Indian_chief_semiprofile_wrinkled_face_bright_3_9a774f9d-b982-46c2-8743-22a3c4e03cfc_1.jpg",
     "Scenario/le monde de Gimélion/Solnos.md",
-    "Scenario/Chapitre I - Le voyage.md",
     "Scenario/le monde de Gimélion/Solos.md",
     "game mastering/core principles/Interesting choices.md",
     "Scenario/Le monde.md",
-    "Scenario/La région.md",
     "Untitled.canvas",
     "assets",
     "game mastering/core principles/Enconters.md",
